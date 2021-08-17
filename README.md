@@ -1,4 +1,4 @@
-![](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 <h1 align="center">Hi 👋, I'm Debas </h1><h5 align="center">Front end developer</h5>
 
 - 🌱 I’m currently learning at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
