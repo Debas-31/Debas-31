@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/dbusg" target="blank"><img align="center" src="https://i.postimg.cc/RV5T82VJ/facebook.png" alt="dbus" height="30" width="30" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debas-31&show_icons=true&locale=en&layout=compact" alt="debas" /></p>
+<p text-align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=debas-31&show_icons=true&locale=en&layout=compact" alt="debas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debas-31&show_icons=true&locale=en" alt="debas" /></p>
 
