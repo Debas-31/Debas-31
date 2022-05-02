@@ -5,6 +5,28 @@
 - 📫 How to reach me: debas31@gmail.com
 - ⚡ Fun fact: I like building object and playing ground tenis
 <br>
+<h3>Education</h3>
+<p>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Microverse-blueviolet?style=for-the-badge&logo=microverse&logoColor=61DAFB" 
+      alt="microverse"/> 
+  </a>
+ <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" 
+      alt="freecodecamp"/> 
+  </a>
+ <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" 
+      alt="udemy"/> 
+  </a>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" 
+      alt="scrimba"/> 
+  </a>
+ <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" 
+      alt="codecademy"/> 
+  </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/DEBSH76956492" target="blank"><img align="center" src="https://i.postimg.cc/MGT0VStN/twitter.png" alt="debas" height="30" width="30" /></a>
