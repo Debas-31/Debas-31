@@ -19,13 +19,9 @@
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" 
       alt="udemy"/> 
   </a>
-  <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" 
-      alt="scrimba"/> 
-  </a>
  <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" 
-      alt="codecademy"/> 
+    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" 
+      alt="Coursera"/> 
   </a>
   <h3>Cloud & Hosting:</h3>
 <p>
@@ -72,7 +68,7 @@
 </p>
 
 
-<h3 align="left"> Languages and Tools : </h3>
+<!-- <h3 align="left"> Languages and Tools : </h3>
 <p>
 <a><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
@@ -88,19 +84,33 @@
 <a>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
  </a>
-</p>
+</p> -->
+
+<br>
+
+<h3 align="center">GitHub Statistics:</h3>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Debas-31&show_icons=true&theme=merko" alt="Debas" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Debas-31&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Debas" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debas-31&layout=compact&theme=vue"</p>
   
----
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/DEBSH76956492" target="blank"><img align="center" src="https://i.postimg.cc/MGT0VStN/twitter.png" alt="debas" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/debas-gebrengus-5256a2159/" target="blank"><img align="center" src="https://i.postimg.cc/MpzmZRBW/linkedin.png" alt="debas" height="30" width="30" /></a>
-<a href="https://github.com/Debas-31" target="blank"><img align="center" src="https://i.postimg.cc/Zn3xnxjq/github-icon.png" alt="_debas" height="42" width="42" /></a>
-<a href="https://www.facebook.com/dbusg" target="blank"><img align="center" src="https://i.postimg.cc/RV5T82VJ/facebook.png" alt="dbus" height="30" width="30" /></a>
-</p>
-
-<p text-align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=debas-31&show_icons=true&locale=en&layout=compact" alt="debas" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=debas-31&show_icons=true&locale=en" alt="debas" /></p>
-
+<h3 align="center">Let's Connect 🤝</h3>
+<div align="center">
+<a target="_blank"
+href="https://www.linkedin.com/in/debas-gebrengus-5256a2159/"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
+href="mailto:debas31@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
+href="https://twitter.com/DEBSH76956492"><img
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank"
+href="https://api.whatsapp.com/send?phone=+256706239621&text&app_absent=0"><img
+src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+<a target="_blank"
+href="https://angel.co/u/debas-gebrengus"><img
+src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"></img></a>
+<div/>
+<p align="center">You can check out my portfolio <a href="https://debas-31.github.io/dbus-portfolio/" color="green">here</a></p>
+<p align="center">🤝 Thank you! 🤝</p>
