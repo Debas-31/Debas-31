@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 - 📫 How to reach me: debas31@gmail.com
 - ⚡ Fun fact: I like building object and playing ground tenis
+<br />
+<h3> 👱 Visitors count </h3>
+<img src="https://profile-counter.glitch.me/{Debas-31}/count.svg" />
 <br>
 <h3>Education</h3>
 <p>
@@ -23,7 +26,35 @@
     <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" 
       alt="Coursera"/> 
   </a>
-  <h3>Cloud & Hosting:</h3>
+<h3>Languages</h3>
+<p>
+   <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+      alt="react"/> 
+  </a>
+  <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" 
+      alt="ruby"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+   <a href="https://www.json.org/json-en.html" target="_blank">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
+      alt="json"/>
+  </a>
+</p>
+<p>
+    <h3>Cloud & Hosting:</h3>
 <p>
   <a href="https://cloud.google.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google cloud"/> 
@@ -37,6 +68,54 @@
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
+  </a> 
+</p>
+ <h3>Frameworks</h3>
+ <ul>
+ <li><h4>Frontend</h4></li>
+<p>
+      <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+  </a> 
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+  </a>
+  <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+      alt="webpack"/>
+  </a>
+</p>
+<p>
+<li><h4>Backend</h4></li>
+<p>
+    <a href="https://rubyonrails.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
+  </a>
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p> 
+ </ul>
+<h3>Database</h3>
+<p>
+ <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgres"/>
+  </a>
+ 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mysql"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/> 
   </a> 
 </p>
 <p>
