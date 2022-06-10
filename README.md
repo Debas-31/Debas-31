@@ -28,10 +28,10 @@
   </a>
 <h3>Languages</h3>
 <p>
-<!--    <a href="https://www.php.net/" target="_blank"> 
+   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
       alt="react"/> 
-  </a> -->
+  </a>
   <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" 
       alt="ruby"/> 
