@@ -1,9 +1,11 @@
 <img width=1000 height=300 src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 <h1 align="center">Hi  👋, &nbsp;  I'm Debas </h1><h3 align="center">Full Stack Developer</h3>
-
-- 🌱 I’m currently learning at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
-- 📫 How to reach me: debas31@gmail.com
-- ⚡ Fun fact: I like building object and playing ground tenis
+<p> - :heart: Programming | :green_heart: Communicating | :blue_heart: Learning New Tech Things | :yellow_heart: Nature </p>
+<p> - 🌱 I’m currently a full-time student at Microverse, learning Full Stack Web Development.</p>
+<p>- 📫 How to reach me: debas31@gmail.com </p>
+<p>- 💬 Ask me about : Software development and technologies. </p>
+<p> - 💞️ I’m looking to collaborate on Web Development.</p>
+<p> - ⚡ Fun fact: I like building object and playing ground tenis </p>
 <br />
 <h3> 👱 Visitors count </h3>
 <img src="https://profile-counter.glitch.me/{Debas-31}/count.svg" />
