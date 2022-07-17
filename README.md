@@ -2,8 +2,8 @@
 <h1 align="center">Hi  👋, &nbsp;  I'm Debas </h1><h3 align="center">Full Stack Developer</h3>
 <p> - :heart: Programming | :green_heart: Communicating | :blue_heart: Learning New Tech Things | :yellow_heart: Nature </p>
 <p> - 🌱 I’m currently a full-time student at Microverse, learning Full Stack Web Development.</p>
-<p>- 📫 How to reach me: debas31@gmail.com </p>
-<p>- 💬 Ask me about : Software development and technologies. </p>
+<p>- 📫 How to reach me: <a>debas31@gmail.com</a>, and <a> +2567062396..</a> </p>
+<p>- 💬 Ask me about : Software development </p>
 <p> - 💞️ I’m looking to collaborate on Web Development.</p>
 <p> - ⚡ Fun fact: I like building object and playing ground tenis </p>
 <br />
