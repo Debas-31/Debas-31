@@ -193,5 +193,5 @@ src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whats
 href="https://angel.co/u/debas-gebrengus"><img
 src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"></img></a>
 <div/>
-<p align="left">- You can check out my portfolio <a href="https://debas-31.github.io/dbus-portfolio/" color="green">here</a></p>
-<p align="left">🤝 Thank you! 🤝</p>
+<p align="center">- You can check out my portfolio <a href="https://debas-31.github.io/dbus-portfolio/" color="green">here</a></p>
+<p align="center">🤝 Thank you! 🤝</p>
