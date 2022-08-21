@@ -10,7 +10,8 @@
 <h3> 👱 Visitors count </h3>
 <img src="https://profile-counter.glitch.me/{Debas-31}/count.svg" />
 <br>
-<h3>Education</h3>
+
+<!-- <h3>Education</h3>
 <p>
   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://img.shields.io/badge/Microverse-blueviolet?style=for-the-badge&logo=microverse&logoColor=61DAFB" 
@@ -27,32 +28,20 @@
  <a href="https://www.php.net/" target="_blank"> 
     <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" 
       alt="Coursera"/> 
-  </a>
+  </a> -->
 <h3>Languages</h3>
 <p>
-   <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-      alt="react"/> 
-  </a>
-  <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" 
-      alt="ruby"/> 
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
+    <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" 
+      alt="ruby"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-   <a href="https://www.json.org/json-en.html" target="_blank">
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
-      alt="json"/>
   </a>
 </p>
 <p>
@@ -142,9 +131,6 @@
   </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-  <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
   </a>
 </p>
 
