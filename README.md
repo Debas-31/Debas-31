@@ -166,7 +166,7 @@
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
 <a target="_blank"
-href="https://www.linkedin.com/in/debas-gebrengus-5256a2159/"><img
+href="https://www.linkedin.com/in/debas-gebrengus/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
 href="mailto:debas31@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
@@ -179,6 +179,5 @@ src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whats
 href="https://angel.co/u/debas-gebrengus"><img
 src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"></img></a>
 <div/>
-<p align="left">- You can check out my portfolio <a href="https://debas-31.github.io/dbus-portfolio/" color="green">here</a></p>
-<p align="left">🤝 Thank you! 🤝</p>
-fithou
+<p align="center">- You can check out my portfolio <a href="https://debas-31.github.io/dbus-portfolio/" color="green">here</a></p>
+<p align="center">🤝 Thank you! 🤝</p>
