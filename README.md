@@ -155,9 +155,9 @@
 
 <br>
 
-<h3 align="center">GitHub Statistics:</h3>
+<h3 align="left">GitHub Statistics:</h3>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Debas-31&show_icons=true&theme=merko" alt="Debas" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Debas-31&show_icons=true&theme=merko" alt="Debas" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Debas-31&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Debas" /></p>
 
