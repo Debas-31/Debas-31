@@ -2,10 +2,10 @@
 <h1 align="center">Hi  👋, &nbsp;  I'm Debas </h1><h3 align="center">Full Stack Developer</h3>
 <p> - :heart: Programming | :green_heart: Communicating | :blue_heart: Learning New Tech Things | :yellow_heart: Nature </p>
 <p> - 🌱 I have completed a Full Stack Web Development at Microverse and CR at Microverse.</p>
-<p>- 📫 How to reach me: <a>debas31@gmail.com</a>, and <a> +2567062396..</a> </p>
+<p>- 📫 How to reach me: <a>debas31@gmail.com</a> </p>
 <p>- 💬 Ask me about : Software development </p>
 <p> - 💞️ I’m looking to collaborate on Web Development.</p>
-<p> - ⚡ Fun fact: I like building object and playing ground tenis </p>
+<p> - ⚡ Fun fact: I like building objects and playing ground tennis </p>
 <br />
 <h3> 👱 Visitors count </h3>
 <img src="https://profile-counter.glitch.me/{Debas-31}/count.svg" />
